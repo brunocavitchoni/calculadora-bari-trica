@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color: #D3836C;
+    background-color: #D0826B;
     margin: 0;
     padding: 0;
 }
@@ -15,10 +15,12 @@ body {
     background: whitesmoke;
     border-radius: 10px;
     box-shadow: 5px 5px 5px rgba(0,0,0,.5);
-    max-width: 640px;
+    max-width: 45%;
     display: block;
-    margin: 50px auto;
+    top: 50px;
+    margin: auto;
     padding: 20px;
+    position: relative;
 }
 
 h1 {
@@ -62,3 +64,12 @@ form button:hover {
     background: #9b604f;
 }
 
+.logo {
+    width: 30%;
+    display: block;
+    margin: 20px auto;
+}
+
+.paragrafo-resultado {
+    padding: 10px;
+}

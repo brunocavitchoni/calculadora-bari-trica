@@ -30,9 +30,12 @@ form.addEventListener('submit', function(e) {
     const PEP = getPEP(PPO,PA);
     const percentualPEP = getPercentualPEP(PEP,EP);
 
-    const msg = `Peso ideal: ${PI.toFixed(2)} kg </br>
-    Excesso de peso: ${EP.toFixed(2)} kg </br>
-    Perda do excesso de peso: ${PEP.toFixed(2)} kg</br>
+    const msg = `Peso ideal: ${PI.toFixed(2)} kg </br></br>
+
+    Excesso de peso: ${EP.toFixed(2)} kg </br></br>
+
+    Perda do excesso de peso: ${PEP.toFixed(2)} kg</br></br>
+
     Percentual da perda do excesso de peso: ${percentualPEP.toFixed(2)} %`
 
     setResultado(msg, true)
