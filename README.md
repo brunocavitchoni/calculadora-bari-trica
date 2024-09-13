@@ -5,3 +5,7 @@
 <p>Realizei o projeto com as linguagens de Front-End: HTML, CSS e JavaScript</p>
 <p></p>
 <p>Nele, os profissionais nutricionistas, que atuam com atendimento de pacientes bariátricos, têm uma calculadora que facilita o cálculo dos indicadores utilizados para atendimento de pacientes pós cirurgia bariátrica</p>
+<p></p>
+<p>Segue link da página, com imagem abaixo</p>
+<p>https://brunocavitchoni.github.io/calculadora-bariatrica/</p>
+
